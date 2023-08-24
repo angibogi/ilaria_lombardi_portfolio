@@ -1,4 +1,4 @@
-<h1> Sarra Slimane </h1>
+<h1> Ilaria Lombardi </h1>
 <p> Marketing and Comunication </p>
 
 <h2> PORTFOLIO :woman_technologist:  </h2>
